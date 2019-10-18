@@ -121,7 +121,7 @@ section {
     background-color: white;
     color: maroon;
     transform: rotateY(180deg);
-    overflow: auto;
+    overflow: scroll;
 }
 
 .text {
